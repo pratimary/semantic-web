@@ -1,0 +1,317 @@
+{
+  "head": {
+    "vars": [ "year" , "count" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "year": { "type": "literal" , "value": "1918" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1926" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1929" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1930" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1931" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1932" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1933" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1934" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1935" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1936" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1937" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1938" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1939" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1940" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1941" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1942" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1943" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1944" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1945" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1946" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1947" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1948" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1949" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1950" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1951" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1952" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1953" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1954" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1955" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1956" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1958" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1959" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1960" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1963" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1964" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1965" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1968" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1969" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1970" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1971" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1972" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1973" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1974" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1975" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1976" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1977" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1978" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1979" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1980" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1981" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1982" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "9" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1983" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1984" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1985" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "12" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1986" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "12" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1987" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1988" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "12" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1989" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "10" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1990" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "8" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1991" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "8" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1992" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "10" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1993" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "9" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1994" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "17" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1995" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "18" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1996" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "16" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1997" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "17" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1998" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "15" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "1999" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "12" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2000" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "10" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2001" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "10" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2002" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "16" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2003" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "19" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2004" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "19" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2005" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "21" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2006" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "22" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2007" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "16" }
+      } ,
+      {
+        "year": { "type": "literal" , "value": "2008" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      }
+    ]
+  }
+}

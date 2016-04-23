@@ -1,0 +1,101 @@
+{
+  "head": {
+    "vars": [ "gen" , "count" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "gen": { "type": "literal" , "value": "Musical Drama" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Spy" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Drama" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "223" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Western" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Teen" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "17" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Plague" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Indie" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "56" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Black comedy" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "8" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Martial arts" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Children's" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "18" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Romance Film" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "22" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "War" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Action" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "43" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Action/Adventure" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Family" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "22" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Musical" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "18" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Historical drama" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Disaster" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Epic" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Slasher" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "15" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Biographical" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "13" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Mystery" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "17" }
+      } ,
+      {
+        "gen": { "type": "literal" , "value": "Adventure" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "32" }
+      }
+    ]
+  }
+}
