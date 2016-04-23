@@ -3,9 +3,8 @@
  */
 (function(){
     var items = [];
-    var genfirst=[];
-    var gensecond=[];
     var gendata=[];
+    var countrydata=[];
     gendata.push(["Year","action","drama"])
     var data={};
     $("#compare").click(function(e)
@@ -14,6 +13,36 @@
         console.log(gendata);
         drawsecondQueryChart();
 
+    });
+
+    $("#country").click(function(e)
+    {
+        e.preventDefault();
+
+        $.ajax({
+            dataType: "json",
+            url: 'coutnry.json',
+            async: false,
+            data: data,
+            success: function( data ) {
+                //consol.log("success");
+                $.each(data.results.bindings, function (i, item) {
+                    var row = [];
+                    var country=item.country_name.value;
+                    row.push(country.replace(" (country)",""));
+                    //console.log("year "+item.year.value);
+                    row.push(parseFloat(item.count.value));
+                    // console.log("count "+item.count.value);
+                    countrydata.push(row);
+                    //console.log("row "+row);
+                });
+
+                console.log(countrydata);
+
+            }
+
+        });
+        drawRegionsMap();
     });
 
     $("#first").click(function(e)
@@ -88,6 +117,7 @@
     });
 
     items.push(['year','count']);
+    countrydata.push(["country","count"]);
     $.ajax({
         dataType: "json",
         url: 'queryResults.json',
@@ -108,9 +138,12 @@
         //console.log(items[0]);
     });
 
+
+
     console.log(JSON.stringify(items));
-    google.charts.load('current', {'packages':['corechart','bar']});
+    google.charts.load('current', {'packages':['corechart','bar','geochart']});
     google.charts.setOnLoadCallback(drawChart);
+   // google.charts.setOnLoadCallback(drawRegionsMap);
 
     function drawChart() {
         var data = google.visualization.arrayToDataTable(items);
@@ -128,6 +161,20 @@
 
     //google.charts.load('current', {'packages':['bar']});
   //  google.charts.setOnLoadCallback(drawsecondQueryChart);
+    function drawRegionsMap() {
+       // console.log(countrydata);
+        var data = google.visualization.arrayToDataTable(countrydata);
+
+        var options = {
+            colorAxis: {colors: ['#00853f', 'black', '#e31b23']},
+            backgroundColor: '#81d4fa',
+            datalessRegionColor: '#f8bbd0',
+            defaultColor: '#f5f5f5',
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('geochart-colors'));
+        chart.draw(data, options);
+    };
     function drawsecondQueryChart() {
         var items=[];
         var col=[];

@@ -1,0 +1,525 @@
+{
+  "head": {
+    "vars": [ "country_name" , "count" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "country_name": { "type": "literal" , "value": "Angola (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Antarctica (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Armenia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Aruba (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Bermuda (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Bhutan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Cyprus (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "El Salvador (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Greenland (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Grenada (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Guinea (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Jamaica (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Jordan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Kyrgyzstan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Laos (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Libya (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Liechtenstein (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Madagascar (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Malawi (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Monaco (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Mozambique (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Namibia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Nicaragua (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Niger (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Saudi Arabia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Sierra Leone (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Sudan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "United States (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Venezuela (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Yemen (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "New Zealand (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "101" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Japan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1025" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Israel (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "105" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Finland (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "107" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Ireland (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "115" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Pakistan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "118" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Albania (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "13" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Burkina Faso (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "13" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Iran (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "131" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Thailand (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "138" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Brazil (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "146" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "France (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1465" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Colombia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "15" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Poland (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "151" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Netherlands (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "154" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Mexico (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "157" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Luxembourg (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "16" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "China (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "160" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Denmark (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "181" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Philippines (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "186" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Croatia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "19" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Botswana (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Cameroon (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Ecuador (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Ethiopia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Faroe Islands (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Fiji (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Ghana (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Iraq (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Kenya (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Latvia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Malta (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Mauritania (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Moldova (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Myanmar (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "North Korea (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Senegal (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Tanzania (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Trinidad and Tobago (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Sweden (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "223" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Bulgaria (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "23" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "United Kingdom (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2470" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Cuba (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "26" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Afghanistan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Algeria (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Georgia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Isle of Man (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Mongolia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Nepal (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Panama (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Rwanda (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "India (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3018" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Turkey (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "32" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Romania (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "34" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Sri Lanka (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "34" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Bosnia and Herzegovina (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Chile (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Kazakhstan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Lebanon (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Peru (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Serbia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Tunisia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Zimbabwe (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "South Korea (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "425" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Portugal (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "43" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Australia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "442" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Spain (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "442" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Switzerland (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "46" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Argentina (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "478" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Iceland (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "48" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Bolivia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Lithuania (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Mali (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Slovakia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Vietnam (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Indonesia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "51" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Greece (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "53" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Singapore (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "55" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Germany (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "590" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Puerto Rico (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Czech Republic (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "61" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Egypt (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "61" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Malaysia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "63" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "South Africa (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "66" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Cambodia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Morocco (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Ukraine (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Russia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "73" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Taiwan (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "73" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Hong Kong (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "764" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Austria (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "77" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Nigeria (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "8" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Hungary (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "86" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Belgium (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "88" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Estonia (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "9" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Uruguay (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "9" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Norway (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "90" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Italy (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "912" }
+      } ,
+      {
+        "country_name": { "type": "literal" , "value": "Canada (Country)" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "924" }
+      }
+    ]
+  }
+}

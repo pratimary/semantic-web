@@ -1,0 +1,525 @@
+{
+  "head": {
+    "vars": [ "country" , "count" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AM" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AQ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AW" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BM" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CY" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GD" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/JM" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/JO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/KG" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LI" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LY" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MC" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MG" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MW" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MZ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NI" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SD" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SV" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/US" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/VE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/YE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NZ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "101" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/JP" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1025" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "105" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/FI" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "107" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "115" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PK" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "118" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "13" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BF" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "13" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "131" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/TH" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "138" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "146" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/FR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1465" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "15" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "151" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "154" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MX" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "157" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LU" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "16" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "160" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/DK" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "181" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PH" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "186" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/HR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "19" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BW" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CM" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/EC" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/ET" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/FJ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/FO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GH" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IQ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/KE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/KP" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LV" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MD" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MM" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/TT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/TZ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "223" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BG" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "23" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GB" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2470" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CU" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "26" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AF" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/DZ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IM" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NP" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/RW" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "3018" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/TR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "32" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LK" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "34" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/RO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "34" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CL" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/KZ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LB" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/RS" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/TN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/ZW" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "4" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/KR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "425" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "43" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AU" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "442" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/ES" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "442" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CH" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "46" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "478" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IS" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "48" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/LT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/ML" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SK" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/VN" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "5" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/ID" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "51" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/GR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "53" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/SG" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "55" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/DE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "590" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/PR" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "6" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CZ" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "61" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/EG" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "61" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MY" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "63" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/ZA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "66" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/KH" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/MA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/UA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "7" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/RU" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "73" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/TW" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "73" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/HK" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "764" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/AT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "77" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NG" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "8" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/HU" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "86" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/BE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "88" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/EE" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "9" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/UY" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "9" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/NO" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "90" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/IT" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "912" }
+      } ,
+      {
+        "country": { "type": "uri" , "value": "http://data.linkedmdb.org/resource/country/CA" } ,
+        "count": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "924" }
+      }
+    ]
+  }
+}
